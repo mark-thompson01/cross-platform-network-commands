@@ -39,12 +39,12 @@ The purpose of this project is to:
 
 ---
 
-## Portfolio Webpage
-Explore the full tutorial with examples and screenshots:
 
-**[Cross-Platform Networking Commands Webpage](https://mark-thompson01.github.io/MTPortfolio/Skills/Cross%20Plateform%20Networking%20Commands/)
+## 🖥️ **Live Project Webpage:**  
+👉 [Cross-Platform Networking Commands Webpage](https://mark-thompson01.github.io/MTPortfolio/Skills/Cross%20Plateform%20Networking%20Commands/)
 
 ---
+
 
 ## What I've Learned
 Through this project, I have:
@@ -56,18 +56,21 @@ Through this project, I have:
 
 ---
 
-## License
-This project is licensed under the  
-**Creative Commons Attribution 4.0 International (CC BY 4.0) License**.
 
-You are free to:
+## 📁 More from Me
 
-- **Share** — copy and redistribute the material in any medium or format  
-- **Adapt** — remix, transform, and build upon the material  
-for any purpose, even commercially.
+Visit my full GitHub Pages portfolio to explore additional projects:
 
-You must give appropriate credit and provide a link to the license.  
+🔗 [MTPortfolio – Full Project Index](https://mark-thompson01.github.io/MTPortfolio/)
 
-[Read the full license](https://creativecommons.org/licenses/by/4.0/)
 
 ---
+
+
+## 📜 License
+
+This project is licensed under the 
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to use, share, and adapt this content, with appropriate credit.
+
