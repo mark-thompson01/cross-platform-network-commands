@@ -42,8 +42,7 @@ The purpose of this project is to:
 ## Portfolio Webpage
 Explore the full tutorial with examples and screenshots:
 
-**[Cross-Platform Networking Commands Webpage](#)**  
-*(Replace the `#` above with the live GitHub Pages or portfolio link once published.)*
+**[Cross-Platform Networking Commands Webpage](https://mark-thompson01.github.io/MTPortfolio/Skills/Cross%20Plateform%20Networking%20Commands/)
 
 ---
 
