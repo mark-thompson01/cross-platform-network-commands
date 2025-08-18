@@ -21,8 +21,8 @@ They provide insight into system configurations, assist in troubleshooting conne
 This repository links to a hands-on tutorial that covers commands like:
 
 - `ipconfig`, `ifconfig`, `ip a`
-- `netstat`, `ss`
-- `ping`, `tracert`, `mtr`
+- `netstat`, `ss`, `ping`
+- , `tracert`, `mtr` `pathping`
 - `nslookup`, `host`, `dig`
 - `arp`, `route`, `hostname`
 
