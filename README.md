@@ -34,7 +34,7 @@ Each command includes practical examples and scenarios.
 ## Purpose
 The purpose of this project is to:
 
-1. Demonstrate **cross-platform networking commands** with real examples.
+1. Demonstrate **cross-platform network commands** with real examples.
 2. Provide an **educational reference** for IT students and professionals.
 3. Document **practical troubleshooting steps** that can be applied in real-world environments.
 
