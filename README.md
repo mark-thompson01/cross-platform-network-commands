@@ -16,6 +16,7 @@ This repository complements my portfolio project, **Cross-Platform Networking Co
 
 ## Introduction
 Network commands via the command-line interface (CLI) are crucial tools for IT professionals.  
+
 They provide insight into system configurations, assist in troubleshooting connectivity issues, and help analyze network performance across different platforms such as Windows and Linux.
 
 This repository links to a hands-on tutorial that covers commands like:
