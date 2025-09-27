@@ -1,6 +1,6 @@
 # cross-platform-network-commands
 
-This repository complements my portfolio project, **Cross-Platform Network Commands: A Practical Tutorial**, which demonstrates essential networking commands on both Windows and Linux.  
+This repository complements my portfolio project, **Cross-Platform Network Commands: A Practical Tutorial**, which demonstrates essential network commands on both Windows and Linux.  
 > **Note:** This repository does not contain images. All visuals and screenshots are hosted directly on the linked portfolio webpage.
 
 ---
