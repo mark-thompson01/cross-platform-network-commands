@@ -42,7 +42,7 @@ The purpose of this project is to:
 
 
 ## 🖥️ **Live Project Webpage:**  
-👉 [Cross-Platform Networking Commands Webpage](https://mark-thompson01.github.io/MTPortfolio/Skills/Cross%20Plateform%20Networking%20Commands/)
+👉 [Cross-Platform Network Commands Webpage](https://mark-thompson01.github.io/MTPortfolio/Skills/Cross%20Plateform%20Networking%20Commands/)
 
 ---
 
