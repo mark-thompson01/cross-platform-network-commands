@@ -24,7 +24,7 @@ This repository links to a hands-on tutorial that covers commands like:
 - `ipconfig`, `ifconfig`, `ip a`
 - `netstat`, `ss`, `ping`
 - , `tracert`, `mtr` `pathping`
-- `nslookup`, `host`, `dig`
+- `nslookup`, `hostname`, `dig`
 - `arp`, `route`, `hostname`
 
 Each command includes practical examples and scenarios.
